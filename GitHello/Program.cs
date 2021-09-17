@@ -10,6 +10,10 @@ namespace GitHello
     {
         static void Main(string[] args)
         {
+            //Testing Git Version 2
+            Console.WriteLine("Press any key to continue");
+            Console.WriteLine("Say Hello to Git");
+            Console.ReadKey();
         }
     }
 }
